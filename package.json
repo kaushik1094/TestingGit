@@ -1,0 +1,27 @@
+{
+  "name": "testinggit",
+  "version": "1.0.0",
+  "description": "TestingGitCommands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushik1094/TestingGit.git"
+  },
+  "keywords": [
+    "Git"
+  ],
+  "author": "Kaushik  Thallapally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushik1094/TestingGit/issues"
+  },
+  "homepage": "https://github.com/kaushik1094/TestingGit#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router": "^4.3.1"
+  }
+}
